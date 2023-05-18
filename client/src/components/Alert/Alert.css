@@ -1,0 +1,18 @@
+.alert {
+  position: fixed;
+  top: 50;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.alert-success {
+  background-color: green;
+}
+
+.alert-error {
+  background-color: red;
+}

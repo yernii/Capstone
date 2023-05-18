@@ -1,0 +1,27 @@
+.single_comment {
+  margin: 5px;
+  border: 0.5px solid grey;
+  border-radius: 5px;
+  padding: 2px;
+}
+
+.single_forum_body {
+  margin: 10px;
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.single-forum-btn {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.forum-add-ccomment {
+  margin: 10px;
+}
+
+.author-forum {
+  font-size: 10px;
+  color: grey;
+}

@@ -1,0 +1,76 @@
+.container-home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.container-home p {
+  color: grey;
+  line-height: 30px;
+}
+.section-one {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 800px;
+  margin-top: 200px;
+}
+.section-one p {
+  width: 400px;
+}
+
+.logo {
+  margin-right: 20px;
+}
+
+.content {
+  text-align: center;
+}
+
+.section-two {
+  margin-top: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 300px;
+}
+
+.section-two ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.section-two li {
+  margin-bottom: 10px;
+}
+
+.section-three {
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.section-three ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.section-three h3 {
+  margin-bottom: 10px;
+}
+
+.feature-list {
+  background-color: rgb(217, 89, 75);
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.title-name span {
+  color: rgb(217, 89, 75);
+}

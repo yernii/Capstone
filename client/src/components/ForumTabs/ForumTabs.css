@@ -1,0 +1,12 @@
+.forum-list-item:hover {
+  background-color: rgb(198, 236, 251);
+  border-radius: 5px;
+}
+
+.forum-list-item {
+  padding: 2px;
+}
+
+.forum-list-item p {
+  margin-left: 5px;
+}
